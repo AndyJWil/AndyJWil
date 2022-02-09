@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndyWilAstro
+- 👋 Hi, I’m @AndyJWil
 - 👀 I’m interested in astronomy.
 - 🌱 I’m currently a PhD student using Python to create a machine learning tool.
 - 📫 How to reach me ...
